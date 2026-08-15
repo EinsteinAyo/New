@@ -23,7 +23,6 @@ figure, captioned, mapped to the finding it supports).
 | [`MANUSCRIPT_SOURCE.md`](MANUSCRIPT_SOURCE.md) | `FINDINGS.md` concatenated with the corrected mathematical formulation — manuscript-ready source material. |
 | [`MODEL_ARCHITECTURES.md`](MODEL_ARCHITECTURES.md) | Exact architectures, parameter counts, and training hyperparameters for all three models (verified against code and checkpoints — the source for a manuscript Methods section). |
 | [`FIGURE_MANIFEST.md`](FIGURE_MANIFEST.md) | Every figure in `figures_final/`, in manuscript reading order, with a caption summary and the `FINDINGS.md` section it supports. |
-| [`pinn/README.md`](pinn/README.md) | The detailed, chronological, commit-by-commit research log — every round's exact commands, code changes, and metrics. |
 | [`Full_PINN_Code_figures_final_.ipynb`](Full_PINN_Code_figures_final_.ipynb)|The detailed, chronological, commit-by-commit research log — every round's exact commands, code changes, and metrics. |
 **Not in this repo**: the original research question, literature framing,
 dataset acquisition documentation, and full citation list were produced
